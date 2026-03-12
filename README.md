@@ -77,5 +77,5 @@ Ajoutez les lignes suivantes dans votre `server.cfg` :
 
 ```cfg
 ensure esx_notify
-ensure 
+ensure blackliste
 ```
