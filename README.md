@@ -63,6 +63,12 @@ Ajouter votre system de weboock
 
 ---
 
+## 📍 Configuration Vehicles
+
+Aller dans le dossier `shared` et aller dans `config.lua` pour ajouter ou modifier ou supprimer selon vos besoin 
+
+---
+
 ## 📥 Installation
 
 ### 1️⃣ Télécharger le dossier
